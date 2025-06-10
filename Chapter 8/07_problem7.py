@@ -1,5 +1,5 @@
 # Write a python function to remove a given word from a list and strip it at the same time.
-
+ 
 def remove(l, word):
     n = []
     for item in l:
