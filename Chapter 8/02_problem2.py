@@ -7,7 +7,7 @@ convert = ((9/5)* c) + 32
 print(f"The temperature in farenheit is {convert} F")
 
 '''
-
+ 
 # Using function
 def c_to_f(c):
     return ((9/5)*c) + 32
