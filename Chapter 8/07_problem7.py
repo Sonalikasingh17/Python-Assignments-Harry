@@ -8,7 +8,7 @@ def remove(l, word):
     return n
     
 l = ["Sohan", "Rohan", "Nisha","disha","dhruv", "Mona","Sona","Madhu", "Kashish","Sapna","Amrit","Nashra", "sh"]
-
+ 
 print(remove(l,"sh"))
 
 # Write a python function to remove a given word from a list 
