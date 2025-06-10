@@ -21,3 +21,4 @@ print(remove(l,"sh"))
 # l = ["Sohan", "Rohan", "Nisha","disha","dhruv", "Mona","Sona","Madhu", "Kashish","Sapna","Amrit","Nashra", "sh"]
 
 # print(remove(l,"sh")) 
+ 
