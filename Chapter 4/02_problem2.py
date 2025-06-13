@@ -23,7 +23,7 @@ print(students_marks)
 
 # Initialize an empty list to store marks
 students_marks = []
-
+ 
 # Loop to accept marks from 6 students
 for i in range(6):
     mark = int(input(f"Enter marks for student {i+1}: "))
