@@ -8,7 +8,7 @@ This repository contains Python assignments completed as part of Harry's Python 
 - **Chapter2/**: Contains assignments from Chapter 2.
 - **Chapter3/**: Contains assignments from Chapter 3.
 - **Chapter4/**: Contains assignments from Chapter 4.
-- **Chapter5/**: Contains assignments from Chapter 5.
+- **Chapter5/**: Contains assignments from Chapter 5. 
 - **Chapter6/**: Contains assignments from Chapter 6.
 - **Chapter7/**: Contains assignments from Chapter 7.
 - **Chapter8/**: Contains assignments from Chapter 8.
