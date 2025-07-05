@@ -10,7 +10,7 @@ s4 = int(input("Enter student marks: "))
 students_marks.append(s4)
 s5 = int(input("Enter student marks: ")) 
 students_marks.append(s5)
-s6 = int(input("Enter student marks: "))
+s6 = int(input("Enter student marks: ")) 
 students_marks.append(s6)
  
 students_marks.sort()  
