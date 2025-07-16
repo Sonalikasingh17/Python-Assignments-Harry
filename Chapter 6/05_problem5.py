@@ -4,4 +4,4 @@ name = input("Enter the name: ")
 if(name in list):
     print("Yes!, provided name is present in the list") 
 else:
-    print("Sorry!,not available")
+    print("Sorry!,not available") 
