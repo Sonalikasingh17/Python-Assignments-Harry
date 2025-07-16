@@ -3,5 +3,5 @@ list = ["Harry", "Ayush", "Sonalika", "Kashish", "Sapna", "Amrit", "Mohan", "Soh
 name = input("Enter the name: ")
 if(name in list):
     print("Yes!, provided name is present in the list")    
-else: 
+else:  
     print("Sorry!,not available") 
