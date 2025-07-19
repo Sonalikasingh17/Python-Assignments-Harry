@@ -6,7 +6,7 @@ This repository contains Python assignments completed as part of Harry's Python 
 
 - **Chapter1/**: Contains assignments from Chapter 1.
 - **Chapter2/**: Contains assignments from Chapter 2.
-- **Chapter3/**: Contains assignments from Chapter 3.
+- **Chapter3/**: Contains assignments from Chapter 3. 
 - **Chapter4/**: Contains assignments from Chapter 4.
 - **Chapter5/**: Contains assignments from Chapter 5. 
 - **Chapter6/**: Contains assignments from Chapter 6.
