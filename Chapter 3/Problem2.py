@@ -10,3 +10,4 @@ letter = '''
 
 
 print(letter.replace("<|Name|>", "Sonalika").replace("<|Date|>","17-07-2021"))
+ 
