@@ -4,7 +4,7 @@ This repository contains Python assignments completed as part of Harry's Python 
 
 ## Repository Structure
 
-- **Chapter1/**: Contains assignments from Chapter 1.
+- **Chapter1/**: Contains assignments from Chapter 1. 
 - **Chapter2/**: Contains assignments from Chapter 2.
 - **Chapter3/**: Contains assignments from Chapter 3. 
 - **Chapter4/**: Contains assignments from Chapter 4.
