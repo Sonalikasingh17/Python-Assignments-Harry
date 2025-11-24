@@ -6,3 +6,4 @@ def inch_to_cms(inch):
 n = int(input("Enter the number: "))    
                          
 print(f"{n} inches in cms is:",inch_to_cms(n))
+
