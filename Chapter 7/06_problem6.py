@@ -10,7 +10,7 @@ for i in range(1,n+1):
     #i += 1 # No need
 
 #print("The factorial of given number is:",factorial)
-print(f"The factorial of {n} is {factorial}")
+print(f"The factorial of {n} is {factorial}") 
 
 
 #using while loop
